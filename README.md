@@ -16,7 +16,7 @@ This project automates the submission of a Google Form using Selenium and sends 
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/fredrick273/form_submission.git
-    cd selenium-django-form-submission
+    cd form_submission
     ```
 
 2. **Install the required packages:**
